@@ -12,7 +12,7 @@ using MySql.Data.MySqlClient;
 using Microsoft.Data.SqlClient;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
-namespace BibliothèqueDeJeux
+namespace BibliothèqueDeJeux //test
 {
     public partial class FUserJeux : Form
     {
