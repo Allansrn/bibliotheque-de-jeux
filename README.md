@@ -63,4 +63,4 @@ Accessible à tous les utilisateurs. Elle permet :
 
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/ton-pseudo/nom-du-depot.git
+   git clone https://github.com/Allansrn/bibliotheque-de-jeux.git
